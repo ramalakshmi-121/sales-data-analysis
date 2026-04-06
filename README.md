@@ -1,5 +1,5 @@
 # Sales data analysis project
-Analyzed 10,000+ sales records using Python (Pandas) and SQL to uncover key insights on revenue trends, customer behavior, and branch performance.
+Analyzed 10,000+ sales records using Python (Pandas) and SQL to uncover key insights on revenue trends, customer behaviour, and branch performance.
 
 ### Source: https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets
 
